@@ -86,7 +86,7 @@ call minpac#add('tpope/vim-fugitive')
 
 " Set color scheme to Solarized Dark
 set background=dark
-colorscheme solarized
+silent! colorscheme solarized
 
 " Enable Powerline fonts and Solarized theme (Airline)
 let g:airline_powerline_fonts = 1
