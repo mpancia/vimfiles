@@ -77,6 +77,11 @@ call minpac#add('tpope/vim-surround')
 " CSV support
 call minpac#add('chrisbra/csv.vim')
 
+" Commenting
+call minpac#add('tpope/vim-commentary')
+
+" Git
+call minpac#add('tpope/vim-fugitive')
 "}}}
 
 " Set color scheme to Solarized Dark
